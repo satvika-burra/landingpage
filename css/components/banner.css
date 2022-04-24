@@ -1,0 +1,29 @@
+.logo {
+	padding: 0px 0px;
+	border-radius: 6px;
+}
+.center {
+  	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+	width: 20%;
+}
+
+.banner-image {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.4) 50%), url(../../images/banner.jpg);
+	padding: 100px 0px;
+	background-size: cover;
+	background-position: center;
+}
+.banner-image h1{
+	font-size: 70px;
+	color: #faedfa;
+	font-weight: bold;
+}
+
+.banner-image h2{
+	color: #faedfa;
+	font-size: 25px;
+	font-weight: lighter;
+	opacity: 0.7;
+}

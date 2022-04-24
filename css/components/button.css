@@ -1,0 +1,17 @@
+.btn {
+	color: #550388;
+	background-color: #faedfa;
+	opacity: 0.8;
+	padding: 10px;
+	border-radius: 5px;
+	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 20%;
+ 	text-align: center;
+}
+
+.btn:hover {
+	background-color: #cfbdd9;
+}
+
